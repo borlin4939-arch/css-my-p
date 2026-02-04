@@ -1,0 +1,198 @@
+.header
+        {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 15px 30px;
+        }
+
+        .logo
+        {
+            font-family: Orbitron, sans-serif;
+            font-weight: bold;
+            font-style: italic;
+            font-size: 30px;
+            color: grey;
+        }
+        .menu
+        {
+            display: flex;
+            gap: 30px;
+            font-family: Orbitron, sans-serif;
+            font-style: italic;
+        }
+        .clr
+        {
+            color: grey;
+            text-decoration: none;
+        }
+        .clr:hover{
+            color:green;
+        }
+         .searchb
+        {
+            padding: 5px 15px;
+            border-radius: 5px;
+            border: none;
+            margin-right: 50px;
+        }
+
+        .index
+        {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 60px 20px;
+            color: white;
+        }
+
+        .indtxt
+        {
+            flex:1;
+            margin-left: 200px;
+        }
+         .bubble
+        {
+            background-color: grey;
+            color: rgb(245, 241, 241);
+            padding: 10px 20px;
+            border-radius: 20px;
+            display: inline-block;
+            font-weight: italic;
+            margin-bottom: 20px;
+        }
+
+        .indtxt h1
+        {
+            font-size: 50px;
+            margin: 10px 0;
+            color: grey;
+            font-family:Sriracha, sans-serif ;
+        }
+
+        .indtxt p
+        {
+            list-style: 1.6;
+            font-size: 25px;
+            max-width: 600px;
+            margin-bottom: 30px;
+        }
+
+        .indbtn
+        {
+            display: flex;
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+         .icons
+        {
+            display: flex;
+            gap: 20px;
+        }
+
+        .icons a
+        {
+            color: white;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 11px;
+        }
+
+        .image
+        {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            padding-right: 10%;
+        }
+         .btncon
+        {
+            background-color:grey;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .btncon:hover
+        {
+            background-color:#F0FFC3 ;
+            color: #FFCE99;
+        }
+
+        .btnv
+
+        {
+            background-color: grey;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .btnv:hover
+        {
+            background-color: #F0FFC3;
+            color: #FFCE99;
+        }
+        .AM
+        {
+          padding-top: 20px ;
+          padding-left: 50px;
+          font-style: arial;
+          color: gray;
+        }
+        .AMW
+        {
+           font-style: italic;
+           color: grey;
+           margin-left: 30px;
+           font-size:  140%;
+           font-size: larger;
+           
+           
+        
+
+        }
+        #bgc
+        {
+            background-color:azure;
+
+        }
+        .AMW1
+        {
+            font-style: italic;
+           color: grey;
+           margin-left: 30px;
+           font-size:  140%;
+           font-size: larger;
+           padding-top: 20px;
+        }
+        .word
+        {
+            font-style: italic;
+            font-size: large;
+            margin-top: 100px;
+        }
+        .photosize
+        {
+            width:400px;
+            height:400px;
+            padding-top: 20px;
+        }
+        .phtbgc
+        {
+          background-color: navajowhite;
+        }
+
+        
+        
+
+        
+        
